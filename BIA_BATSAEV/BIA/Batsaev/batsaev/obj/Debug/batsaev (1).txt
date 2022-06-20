@@ -1,0 +1,23 @@
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\batsaev.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\_batsaev.Form1.resources
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\_batsaev.Properties.Resources.resources
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\batsaev.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\batsaev.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\bin\Debug\batsaev.exe.config
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\bin\Debug\batsaev.exe
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\bin\Debug\batsaev.pdb
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\batsaev.exe
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\batsaev.pdb
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\_batsaev.Form2.resources
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\_batsaev.Form3.resources
+C:\Users\student\Desktop\Бацаев Абдула 21ис-20\batsaev\batsaev\batsaev\obj\Debug\_batsaev.Спонсор_бегуна.resources
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\batsaev.csproj.AssemblyReference.cache
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\_batsaev.Form1.resources
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\_batsaev.Form2.resources
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\_batsaev.Form3.resources
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\_batsaev.Properties.Resources.resources
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\_batsaev.Спонсор_бегуна.resources
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\batsaev.csproj.GenerateResource.cache
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\batsaev.csproj.CoreCompileInputs.cache
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\batsaev.exe
+D:\21-ИС-20\Batsaev\Batsaev\BIA-main\batsaev\batsaev\obj\Debug\batsaev.pdb
